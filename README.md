@@ -80,6 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 Enjoy the game, and may the odds be ever in your favor! If you have any questions or encounter any issues, please feel free to open an issue in this repository. Happy gaming! 🎮
 
-##output
+## output
 ![image](https://github.com/KABILANRS07/KABILANRS07/assets/90306028/9bdd03d1-d6ed-4679-9aab-8f5f8f474fd3)
 ---
